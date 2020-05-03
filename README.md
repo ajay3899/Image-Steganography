@@ -3,3 +3,6 @@ Steganography is the art which provides invisible communication by hiding facts.
 
 # Technogies Used
 C++ 
+
+# prior installation: 
+bitmap_image
